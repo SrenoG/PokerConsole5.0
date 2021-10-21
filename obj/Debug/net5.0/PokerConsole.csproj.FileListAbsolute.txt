@@ -1,0 +1,16 @@
+C:\Users\Sgi\source\repos\PokerConsole\PokerConsole\obj\Debug\net5.0\PokerConsole.csprojAssemblyReference.cache
+C:\Users\Sgi\source\repos\PokerConsole\PokerConsole\obj\Debug\net5.0\PokerConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sgi\source\repos\PokerConsole\PokerConsole\obj\Debug\net5.0\PokerConsole.AssemblyInfoInputs.cache
+C:\Users\Sgi\source\repos\PokerConsole\PokerConsole\obj\Debug\net5.0\PokerConsole.AssemblyInfo.cs
+C:\Users\Sgi\source\repos\PokerConsole\PokerConsole\obj\Debug\net5.0\PokerConsole.csproj.CoreCompileInputs.cache
+C:\Users\Sgi\source\repos\PokerConsole\PokerConsole\bin\Debug\net5.0\PokerConsole.exe
+C:\Users\Sgi\source\repos\PokerConsole\PokerConsole\bin\Debug\net5.0\PokerConsole.deps.json
+C:\Users\Sgi\source\repos\PokerConsole\PokerConsole\bin\Debug\net5.0\PokerConsole.runtimeconfig.json
+C:\Users\Sgi\source\repos\PokerConsole\PokerConsole\bin\Debug\net5.0\PokerConsole.runtimeconfig.dev.json
+C:\Users\Sgi\source\repos\PokerConsole\PokerConsole\bin\Debug\net5.0\PokerConsole.dll
+C:\Users\Sgi\source\repos\PokerConsole\PokerConsole\bin\Debug\net5.0\ref\PokerConsole.dll
+C:\Users\Sgi\source\repos\PokerConsole\PokerConsole\bin\Debug\net5.0\PokerConsole.pdb
+C:\Users\Sgi\source\repos\PokerConsole\PokerConsole\obj\Debug\net5.0\PokerConsole.dll
+C:\Users\Sgi\source\repos\PokerConsole\PokerConsole\obj\Debug\net5.0\ref\PokerConsole.dll
+C:\Users\Sgi\source\repos\PokerConsole\PokerConsole\obj\Debug\net5.0\PokerConsole.pdb
+C:\Users\Sgi\source\repos\PokerConsole\PokerConsole\obj\Debug\net5.0\PokerConsole.genruntimeconfig.cache
